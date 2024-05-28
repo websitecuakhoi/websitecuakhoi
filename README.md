@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Khoi
 #### Fullstack Developer
-![Fullstack Developer](https://img.freepik.com/premium-photo/starry-night-sky-with-stars-milky-way-mountains-lake-generative-ai-illustration_118086-9857.jpg)
+![Fullstack Developer](https://i.pinimg.com/originals/40/ed/da/40edda0cf1757fb415202e7326a8cda0.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
