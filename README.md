@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Khoi
 #### Fullstack Developer
 ![Fullstack Developer](https://i.pinimg.com/originals/40/ed/da/40edda0cf1757fb415202e7326a8cda0.jpg)
-
+## 🚀 About Me
 I am an experienced web developer passionate about crafting beautiful and powerful web applications. With a strong understanding of HTML5, CSS3, and JavaScript, I have the ability to build interactive and user-friendly interfaces. Proficiency in design tools like Figma enables me to create design mockups before coding begins. Additionally, I have experience in backend development using PHP and MySQL. Creativity, a hunger for learning, and teamwork are my strengths. I view programming not just as a job but as a passion and a mission to share knowledge and skills with the programming community. I believe that continuous learning and sharing will help me continually improve and contribute to the advancement of the IT industry.
 
 - 🔭 I’m currently working on developing a scalable full-stack web 
