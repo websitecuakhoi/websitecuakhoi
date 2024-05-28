@@ -26,7 +26,7 @@ I am an experienced web developer passionate about crafting beautiful and powerf
 <a href="https://twitter.com/khoitran258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khoitran258" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100020789212525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100020789212525" height="30" width="40" /></a>
 <a href="https://instagram.com/khoi265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khoi265" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucxu-pmtpf63b1rlmz2adzlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxu-pmtpf63b1rlmz2adzlw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCxU-PmTPf63b1RlmZ2adzlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxu-pmtpf63b1rlmz2adzlw" height="30" width="40" /></a>
 </p>
 
 ## 💻 Languages and Tools
