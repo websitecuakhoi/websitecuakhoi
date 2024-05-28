@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khôi</h1>
 <h3 align="center">A Fullstack Developer</h3>
-![Fullstack Developer](https://i.pinimg.com/originals/40/ed/da/40edda0cf1757fb415202e7326a8cda0.jpg)
+<p align="left"> <img src="https://i.pinimg.com/originals/40/ed/da/40edda0cf1757fb415202e7326a8cda0.jpg" alt="" /> </p>
+
 
 
 
