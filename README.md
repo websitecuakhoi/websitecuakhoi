@@ -13,8 +13,11 @@ I am an experienced web developer passionate about crafting beautiful and powerf
 ## ☕ Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/websitecuakhoi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100020789212525)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/KhoiTran258)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCxU-PmTPf63b1RlmZ2adzlw)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=websitecuakhoi)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=websitecuakhoi&show_icons=true)  
+<div style="display: flex; justify-content: space-between;">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=websitecuakhoi)](https://github.com/anuraghazra/github-readme-stats)
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=websitecuakhoi&show_icons=true)
+</div>
+
 
 ![GitHub metrics](https://metrics.lecoq.io/websitecuakhoi)  
 
